@@ -1,4 +1,4 @@
-# n8n Workflow: Case 02 - Chatbot de Suporte via WhatsApp com IA
+# N8N Workflow: Case 02 - Chatbot de Suporte via WhatsApp com IA
 
 ## 📝 Descrição
 
